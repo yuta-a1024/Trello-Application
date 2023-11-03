@@ -28,7 +28,7 @@ header {
 .taskCard {
   width: 250px;
   padding: 10px 25px;
-  margin: 10px 1%;
+  margin: 10px 4% 10px 8%;
   background-color: rgb(202, 213, 221);
   border-radius: 5px;
 }
